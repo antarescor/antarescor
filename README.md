@@ -74,11 +74,7 @@ Software Enginner at universidad del Valle link
 
 [![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api?username=antarescor&hide=prs&show_icons=true&theme=dracula)](https://github.com/antarescor/github-readme-stats) -->
 
-[![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api?username=antarescor&hide=prs&show_icons=true&theme=transparent&text_color=00ff00&icon_color=ff00ff&border_color=00ff00)](https://github.com/antarescor/github-readme-stats)
-
-[![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api?username=antarescor&hide=prs&show_icons=true&theme=transparent&text_color=00ff00&icon_color=ff00ff&border_color=00ff00&hide_border=true)](https://github.com/antarescor/github-readme-stats)
-
-[![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api?username=antarescor&hide=prs&show_icons=true&bg_color=00000000&text_color=00ff00)](https://github.com/antarescor/github-readme-stats)
+[![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api?username=antarescor&hide=prs&show_icons=true&theme=transparent&&title_color=1BB8F7&text_color=1EF714&icon_color=ff00ff&border_color=1EF714&border_radius=10)](https://github.com/antarescor/github-readme-stats)
 
 <!-- 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=antarescor&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/antarescor/github-readme-stats#gh-dark-mode-only)
