@@ -19,7 +19,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - # -->
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=inconsolata&height=45&weight=900&size=20&duration=2000&pause=800&color=1EF714&center=true&vCenter=true&hCenter=true&multiline=false&width=440&height=80&lines=»+System+Engineer+«;»+Information+Systems+Technologist+«;»+Scientist+at+heart+«" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=inconsolata&height=45&weight=900&size=20&duration=800&pause=10000&color=1EF714&center=true&vCenter=true&hCenter=true&multiline=false&width=440&height=80&lines=»+System+Engineer+«;»+Information+Systems+Technologist+«;»+Scientist+at+heart+«" /></a>
 </p>
 
 
@@ -28,13 +28,13 @@
 ## 📫 How to reach me
   
 <p align="center">
-  <a href="https://antarescor.github.io/"><img width="48px" alt="MySite" title="MySite" src="./assets/contact/site.png"/></a>
+  <a href="https://antarescor.github.io/"><img width="44px" alt="MySite" title="MySite" src="./assets/contact/site2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/Antarescor"><img width="48px" alt="Twitter" title="Twitter" src="./assets/contact/twitter.png"/></a>
+  <a href="https://twitter.com/Antarescor"><img width="48px" alt="Twitter" title="Twitter" src="./assets/contact/twitter2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:antarescor@hotmail.com"><img width="48px"  alt="mal" title="mail" src="./assets/contact/mail.png"/></a>
+  <a href="mailto:antarescor@hotmail.com"><img width="48px"  alt="mal" title="mail" src="./assets/contact/mail2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/@_Antarescor"><img width="48px" alt="youtube" title="youtube"src="./assets/contact/youtube.png"/></a>
+  <a href="https://www.youtube.com/@_Antarescor"><img width="48px" alt="youtube" title="youtube"src="./assets/contact/youtube2.png"/></a>
 </p>
 
 
