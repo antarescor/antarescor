@@ -2,6 +2,13 @@
 
 Software Enginner at universidad del Valle link 
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=inconsolata&weight=900&size=34&width=2400&duration=1000&pause=800&color=1EF714&vCenter=true&hCenter=true&multiline=false&width=435&height=80&lines=»+System+Engineer+«;»+Information+Systems+Technologist+«;»+Scientist+at+heart+«)](https://git.io/typing-svg)
+
+
+
+ System  Information   
+
 - 🔭 I’m currently working on my personal Page based on Angular Framework, to seeit visit https://antarescor.github.io/
 - 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate with save the world 💻
@@ -40,9 +47,7 @@ Software Enginner at universidad del Valle link
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][yt]
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=inconsolata&weight=900&size=24&duration=2300&pause=10&color=1EF714&vCenter=true&multiline=true&width=435&height=80&lines=%22La+medida+perfecta+;de+las+cosas+imperfectas%22)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=inconsolata&weight=900&size=24&duration=2300&pause=10&color=1BB8F7&vCenter=true&multiline=true&width=435&height=80&lines=%22The+perfect+measure;of+imperfect+things%22)](https://git.io/typing-svg)
 
 <a href='https://www.kaggle.com/antarescor/'><img alt="kaggle" src="./assets/kaggle.svg" height='18px'/></a>
 
@@ -59,6 +64,11 @@ Software Enginner at universidad del Valle link
 
 [![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api?username=antarescor&card_width=800&include_all_commits=true&count_private=true&hide=prs&show_icons=true&theme=transparent&title_color=1BB8F7&text_color=1EF714&icon_color=ff00ff&rank_icon=github&border_color=1BB8F7&border_radius=10)](https://github.com/antarescor/github-readme-stats)
 
+---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=inconsolata&weight=900&size=24&duration=2300&pause=10&color=1EF714&vCenter=true&multiline=true&width=435&height=80&lines=%22La+medida+perfecta+;de+las+cosas+imperfectas%22)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=inconsolata&weight=900&size=24&duration=2300&pause=10&color=1BB8F7&vCenter=true&multiline=true&width=435&height=80&lines=%22The+perfect+measure;of+imperfect+things%22)](https://git.io/typing-svg)
 
+<!-- guia definitiva 
+https://github.com/anuraghazra/github-readme-stats -->
