@@ -5,14 +5,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=inconsolata&height=45&weight=900&size=40&duration=4000&pause=2000&color=1BB8F7&center=true&vCenter=true&hCenter=true&multiline=false&width=800&height=80&lines=+👋+Hi!;+I'm+Manuel+A.+Doncel;A.k.a...;»+~Antarescor~+«;Welcome+to+my+GitHub+profile;Enjoyit+!" /></a>
 </h1>
 
-1BB8F7
-1EF714
 
 + 📚 I’m Software Engineer at ***[Universidad del Valle][univalle]*** 
 + 💻 I’m currently working on my ***[personal portfolio Page][portfolio]*** based on Angular Framework
-+ 🌱 I’m currently learning Angular
++ 🌱 I’m currently learning ReactJS
 + 👯 I’m looking to collaborate with save the world 
-+ 🤔 I’m looking for my best job as Systems Engineer
++ 🤔 i've searching for my best job as Systems Engineer
 + 💬 Ask me about my ilusion on the both life and love
 + 🐈‍ Pratronus: a Wildcat 
 + 🦅 Always Ravenclaw !!!
