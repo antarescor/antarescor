@@ -1,6 +1,11 @@
-# Hi i'm Manuel Doncel (AKA Antarescor) here 👋
 
-Software Enginner at universidad del Valle link 
+<h1 align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <span><img src="./assets/wave.gif" width="30px" height="30px" /></span>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=inconsolata&height=45&weight=900&size=40&duration=2000&pause=1000&color=1BB8F7&center=true&vCenter=true&hCenter=true&multiline=false&width=800&height=80&lines=Hi,+I'm+Manuel+A.+Doncel;a.k.a...;+~Antarescor~+" /></a>
+</h1>
+
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -9,67 +14,98 @@ Software Enginner at universidad del Valle link
 </p>
 
 
-
-- 🔭 I’m currently working on my personal Page based on Angular Framework, to seeit visit https://antarescor.github.io/
+- 📚 I’m Software Engineer at ***[Universidad del Valle][univalle]*** 
+- 💻 I’m currently working on my ***[personal portfolio Page][portfolio]*** based on Angular Framework
 - 🌱 I’m currently learning Angular
-- 👯 I’m looking to collaborate with save the world 💻
-- 🤔 I’m looking for my best job as Systems Engineer...
+- 👯 I’m looking to collaborate with save the world 
+- 🤔 I’m looking for my best job as Systems Engineer
 - 💬 Ask me about my ilusion on the both life and love
-- 📫 How to reach me: antarescor@hotmail.com
-- 😄 Pratronus: a Wildcat 
-- 😄 Always Ravenclaw !!!
-- ⚡ Fun fact: my lemma 'La medida perfecta de las cosas imperfectas' ('The perfect measure of imperfect things')
+- 🐈‍ Pratronus: a Wildcat 
+- 🦅 Always Ravenclaw !!!
 
-[My Twitter][twitter]
+<br>
+
+- 📫 How to reach me: ***antarescor@hotmail.com***
+- ***[My Twitter][twitter]***
+- potafolio
+
 
 <!-- links -->
 [twitter]: https://twitter.com/Antarescor/
+[univalle]:https://www.univalle.edu.co/
+[portfolio]: https://antarescor.github.io/
+<!-- end links -->
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Antarescor?color=1da1f2&logo=twitter&style=for-the-badge)
+<br>
 
-# Hello, folks! <img src="./wave.gif" width="30px" height="30px" />
+## 🚀 Coding
+
+<img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/node.svg"> </a>
+
+<img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/angular.svg"> </a>
+
+<img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/react.svg"> </a>
+
+<img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/vue.svg"> </a>
+
+<img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/javascript.svg"> </a>
+
+<img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/typescript.svg"> </a>
+
+<img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/html.svg"> </a>
+
+<img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/css.svg"> </a>
+
+<img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/firebase.svg"> </a>
+
+<img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/aws.svg"> </a>
+
+<br>
+<br>
+<br>
+
+## 🛠️ Tools
+
+<img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/git-scm.svg"> </a>
+
+<img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/figma.svg"> </a>
 
 
-## 🚀 Coding skills
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/angular/angular.svg"> </a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"> </a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"> </a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"> </a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"> </a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"> </a>
-
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][yt]
 
 
+<br>
+<br>
+<br>
+<br>
 
-<a href='https://www.kaggle.com/antarescor/'><img alt="kaggle" src="./assets/kaggle.svg" height='18px'/></a>
 
-## 📊 Github Stats
+## 📈 Github Stats
 
-
-<!-- [![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=antarescor&hide=html,asp.net&card_width=600&theme=transparent&title_color=1BB8F7&text_color=1BB8F7&icon_color=ff00ff&border_color=1BB8F7&border_radius=10&show_icons=true&icon_color=ff00ff&langs_count=10)](ttps://github.com/antarescor/github-readme-stats) -->
 
 [![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=antarescor&text_bold=true&hide=html,asp.net&layout=compact&card_width=800&theme=transparent&title_color=1BB8F7&text_color=1BB8F7&icon_color=ff00ff&border_color=1BB8F7&border_radius=10&show_icons=true&icon_color=ff00ff&langs_count=10)](ttps://github.com/antarescor/github-readme-stats)
 
 
+[![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api?username=antarescor&card_width=800&include_all_commits=true&count_private=true&hide=prs&show_icons=true&theme=transparent&title_color=1BB8F7&text_color=1EF714&icon_color=ff00ff&rank_icon=github&border_color=1BB8F7&border_radius=10)](https://github.com/antarescor/github-readme-stats)
+
+<!-- [![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=antarescor&hide=html,asp.net&card_width=600&theme=transparent&title_color=1BB8F7&text_color=1BB8F7&icon_color=ff00ff&border_color=1BB8F7&border_radius=10&show_icons=true&icon_color=ff00ff&langs_count=10)](ttps://github.com/antarescor/github-readme-stats) -->
+
 <!-- [![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api?username=antarescor&card_width=800&include_all_commits=true&count_private=true&hide=prs&show_icons=true&theme=transparent&title_color=1BB8F7&text_color=1EF714&icon_color=ff00ff&border_color=1BB8F7&border_radius=10)](https://github.com/antarescor/github-readme-stats)
  -->
 
-[![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api?username=antarescor&card_width=800&include_all_commits=true&count_private=true&hide=prs&show_icons=true&theme=transparent&title_color=1BB8F7&text_color=1EF714&icon_color=ff00ff&rank_icon=github&border_color=1BB8F7&border_radius=10)](https://github.com/antarescor/github-readme-stats)
+##
 
----
+<div align="center">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=inconsolata&height=45&weight=900&size=15&duration=5000&pause=1000&color=1EF714&center=true&vCenter=true&hCenter=true&multiline=false&width=440&height=80&lines=%22La+medida+perfecta+de+las+cosas+imperfectas%22" /></a>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=inconsolata&weight=900&size=24&duration=2300&pause=10&color=1EF714&vCenter=true&multiline=true&width=435&height=80&lines=%22La+medida+perfecta+;de+las+cosas+imperfectas%22)](https://git.io/typing-svg)
+<div align="center">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=inconsolata&height=45&weight=900&size=15&duration=5000&pause=1000&color=1BB8F7&center=true&vCenter=true&hCenter=true&multiline=false&width=440&height=80&lines=%22The+perfect+measure+of+imperfect+things%22" /></a>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=inconsolata&weight=900&size=24&duration=2300&pause=10&color=1BB8F7&vCenter=true&multiline=true&width=435&height=80&lines=%22The+perfect+measure;of+imperfect+things%22)](https://git.io/typing-svg)
+##
+
 
 <!-- guia definitiva 
 https://github.com/anuraghazra/github-readme-stats -->
