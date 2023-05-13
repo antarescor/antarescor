@@ -1,35 +1,44 @@
 
 <h1 align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <span><img align="center" alt="JavaScript" height ="48px"  src="./assets/wave.gif"> </a></span>
-
-  
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=inconsolata&height=45&weight=900&size=40&duration=800&pause=100000&color=1BB8F7&center=true&vCenter=true&hCenter=true&multiline=false&width=800&height=80&lines=Hi,+I'm+Manuel+A.+Doncel;a.k.a...;+~Antarescor~+" /></a>
+ 
+  <a href="#"> 
+    <img src="https://readme-typing-svg.demolab.com?font=inconsolata&height=45&weight=900&size=40&duration=4000&pause=2000&color=1BB8F7&center=true&vCenter=true&hCenter=true&multiline=false&width=800&height=80&lines=+👋+Hi!;+I'm+Manuel+A.+Doncel;A.k.a...;»+~Antarescor~+«;Welcome+to+my+GitHub+profile;Enjoyit+!" /></a>
 </h1>
+
+1BB8F7
+1EF714
+
++ 📚 I’m Software Engineer at ***[Universidad del Valle][univalle]*** 
++ 💻 I’m currently working on my ***[personal portfolio Page][portfolio]*** based on Angular Framework
++ 🌱 I’m currently learning Angular
++ 👯 I’m looking to collaborate with save the world 
++ 🤔 I’m looking for my best job as Systems Engineer
++ 💬 Ask me about my ilusion on the both life and love
++ 🐈‍ Pratronus: a Wildcat 
++ 🦅 Always Ravenclaw !!!
 
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=inconsolata&height=45&weight=900&size=20&duration=5000&pause=1000&color=1EF714&center=true&vCenter=true&hCenter=true&multiline=false&width=440&height=80&lines=»+System+Engineer+«;»+Information+Systems+Technologist+«;»+Scientist+at+heart+«" /></a>
+  <!-- Typing SVG by DenverCoder1 - # -->
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=inconsolata&height=45&weight=900&size=20&duration=2000&pause=800&color=1EF714&center=true&vCenter=true&hCenter=true&multiline=false&width=440&height=80&lines=»+System+Engineer+«;»+Information+Systems+Technologist+«;»+Scientist+at+heart+«" /></a>
 </p>
 
 
-- 📚 I’m Software Engineer at ***[Universidad del Valle][univalle]*** 
-- 💻 I’m currently working on my ***[personal portfolio Page][portfolio]*** based on Angular Framework
-- 🌱 I’m currently learning Angular
-- 👯 I’m looking to collaborate with save the world 
-- 🤔 I’m looking for my best job as Systems Engineer
-- 💬 Ask me about my ilusion on the both life and love
-- 🐈‍ Pratronus: a Wildcat 
-- 🦅 Always Ravenclaw !!!
-
 <br>
 
-- 📫 How to reach me: ***antarescor@hotmail.com***
-- ***[My Twitter][twitter]***
-- potafolio
+## 📫 How to reach me
+  
+<p align="center">
+  <a href="https://antarescor.github.io/"><img width="48px" alt="MySite" title="MySite" src="./assets/contact/site.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/Antarescor"><img width="48px" alt="Twitter" title="Twitter" src="./assets/contact/twitter.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:antarescor@hotmail.com"><img width="48px"  alt="mal" title="mail" src="./assets/contact/mail.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.youtube.com/@_Antarescor"><img width="48px" alt="youtube" title="youtube"src="./assets/contact/youtube.png"/></a>
+</p>
+
 
 
 <!-- links -->
@@ -43,34 +52,30 @@
 ## 🚀 Coding
 
 <img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/node.svg"> </a>
-
 <img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/angular.svg"> </a>
-
 <img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/react.svg"> </a>
-
 <img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/vue.svg"> </a>
-
 <img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/javascript.svg"> </a>
-
 <img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/typescript.svg"> </a>
-
 <img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/html.svg"> </a>
-
 <img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/css.svg"> </a>
+<img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/css.svg"> </a>
+<img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/bootstrap.svg"> </a>
+<img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/csharp.svg"> </a>
+<img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/materialize.svg"> </a>
 
-<img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/firebase.svg"> </a>
-
-<img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/aws.svg"> </a>
 
 <br>
 <br>
 <br>
 
 ## 🛠️ Tools
-
+<img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/aws.svg"> </a>
+<img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/azure.svg"> </a>
+<img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/firebase.svg"> </a>
 <img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/git-scm.svg"> </a>
-
 <img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/figma.svg"> </a>
+<img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/graphql.svg"> </a>
 
 
 
@@ -95,19 +100,25 @@
  -->
 
 ##
-
 <div align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=inconsolata&height=45&weight=900&size=15&duration=5000&pause=1000&color=1EF714&center=true&vCenter=true&hCenter=true&multiline=false&width=440&height=80&lines=%22La+medida+perfecta+de+las+cosas+imperfectas%22" /></a>
-</div>
-
-<div align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg">
+ <a href="#">
     <img src="https://readme-typing-svg.demolab.com?font=inconsolata&height=45&weight=900&size=15&duration=5000&pause=1000&color=1BB8F7&center=true&vCenter=true&hCenter=true&multiline=false&width=440&height=80&lines=%22The+perfect+measure+of+imperfect+things%22" /></a>
 </div>
 
+<div align="center">
+ <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=inconsolata&height=45&weight=900&size=15&duration=5000&pause=1000&color=1EF714&center=true&vCenter=true&hCenter=true&multiline=false&width=440&height=80&lines=%22La+medida+perfecta+de+las+cosas+imperfectas%22" /></a>
+</div>
+
+
 ##
 
+### 🔗 Links 👇
 
-<!-- guia definitiva 
-https://github.com/anuraghazra/github-readme-stats -->
++ [Guide to personalizate gitHub profile][profile]
++ [How to personalize your gitHub stats][typinfsvg] 
+
+<!-- Other links -->
+[profile]: https://github.com/anuraghazra/
+[typinfsvg]:https://github.com/DenverCoder1/readme-typing-svg
+<!-- end other links -->
