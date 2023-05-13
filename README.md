@@ -28,13 +28,13 @@
 ## 📫 How to reach me
   
 <p align="center">
-  <a href="https://antarescor.github.io/"><img width="44px" alt="MySite" title="MySite" src="./assets/contact/site2.png"/></a>
+  <a href="https://antarescor.github.io/"  target="_blank"><img width="44px" alt="MySite" title="MySite" src="./assets/contact/site2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/Antarescor"><img width="48px" alt="Twitter" title="Twitter" src="./assets/contact/twitter2.png"/></a>
+  <a href="https://twitter.com/Antarescor"  target="_blank"><img width="48px" alt="Twitter" title="Twitter" src="./assets/contact/twitter2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:antarescor@hotmail.com"><img width="48px"  alt="mal" title="mail" src="./assets/contact/mail2.png"/></a>
+  <a href="mailto:antarescor@hotmail.com"  target="_blank"><img width="48px"  alt="mal" title="mail" src="./assets/contact/mail2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/@_Antarescor"><img width="48px" alt="youtube" title="youtube"src="./assets/contact/youtube2.png"/></a>
+  <a href="https://www.youtube.com/@_Antarescor"  target="_blank"><img width="48px" alt="youtube" title="youtube"src="./assets/contact/youtube2.png"/></a>
 </p>
 
 
