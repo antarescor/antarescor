@@ -3,7 +3,7 @@
 Software Enginner at universidad del Valle link 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=inconsolata&weight=900&size=34&width=2400&duration=1000&pause=800&color=1EF714&vCenter=true&hCenter=true&multiline=false&width=435&height=80&lines=»+System+Engineer+«;»+Information+Systems+Technologist+«;»+Scientist+at+heart+«)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=inconsolata&weight=900&size=24&width=80000&duration=1000&pause=800&color=1EF714&center=true&multiline=false&width=435&height=80&lines=»+System+Engineer+«;»+Information+Systems+Technologist+«;»+Scientist+at+heart+«)](https://git.io/typing-svg)
 
 
 
