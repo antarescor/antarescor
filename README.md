@@ -2,12 +2,13 @@
 
 Software Enginner at universidad del Valle link 
 
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=inconsolata&height=45&weight=900&size=20&duration=5000&pause=1000&color=1EF714&center=true&vCenter=true&hCenter=true&multiline=false&width=440&height=80&lines=»+System+Engineer+«;»+Information+Systems+Technologist+«;»+Scientist+at+heart+«" /></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=inconsolata&weight=900&size=24&width=80000&duration=1000&pause=800&color=1EF714&center=true&multiline=false&width=435&height=80&lines=»+System+Engineer+«;»+Information+Systems+Technologist+«;»+Scientist+at+heart+«)](https://git.io/typing-svg)
 
-
-
- System  Information   
 
 - 🔭 I’m currently working on my personal Page based on Angular Framework, to seeit visit https://antarescor.github.io/
 - 🌱 I’m currently learning Angular
