@@ -28,7 +28,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=inconsolata&height=45&weight=900&size=20&duration=800&pause=10000&color=1EF714&center=true&vCenter=true&hCenter=true&multiline=false&width=440&height=80&lines=»+System+Engineer+«;»+Information+Systems+Technologist+«;»+Scientist+at+heart+«" /></a>
 </p>
 
-
 <br>
 
 ## 📫 How to reach me
@@ -43,7 +42,6 @@
   <a href="https://www.youtube.com/@_Antarescor"  target="_blank"><img width="48px" alt="youtube" title="youtube"src="./assets/contact/youtube2.png"/></a>
 </p>
 
-
 <br>
 
 ## 🚀 Coding
@@ -55,7 +53,6 @@
 <img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/javascript.svg"> </a>
 <img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/typescript.svg"> </a>
 <img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/html.svg"> </a>
-<img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/css.svg"> </a>
 <img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/css.svg"> </a>
 <img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/bootstrap.svg"> </a>
 <img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/csharp.svg"> </a>
