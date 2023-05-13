@@ -30,6 +30,19 @@
 
 <br>
 
+
+## 📈 Github Stats
+
+[![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=antarescor&text_bold=true&hide=html,asp.net&layout=compact&card_width=800&theme=transparent&title_color=1BB8F7&text_color=1BB8F7&icon_color=ff00ff&border_color=1BB8F7&border_radius=10&show_icons=true&icon_color=ff00ff&langs_count=10)](ttps://github.com/antarescor/github-readme-stats)
+
+
+[![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api?username=antarescor&card_width=800&include_all_commits=true&count_private=true&hide=prs&show_icons=true&theme=transparent&title_color=1BB8F7&text_color=1EF714&icon_color=ff00ff&rank_icon=github&border_color=1BB8F7&border_radius=10)](https://github.com/antarescor/github-readme-stats)
+
+<!-- [![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=antarescor&hide=html,asp.net&card_width=600&theme=transparent&title_color=1BB8F7&text_color=1BB8F7&icon_color=ff00ff&border_color=1BB8F7&border_radius=10&show_icons=true&icon_color=ff00ff&langs_count=10)](ttps://github.com/antarescor/github-readme-stats) -->
+
+<!-- [![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api?username=antarescor&card_width=800&include_all_commits=true&count_private=true&hide=prs&show_icons=true&theme=transparent&title_color=1BB8F7&text_color=1EF714&icon_color=ff00ff&border_color=1BB8F7&border_radius=10)](https://github.com/antarescor/github-readme-stats)
+ -->
+
 ## 📫 How to reach me
   
 <p align="center">
@@ -73,19 +86,6 @@
 <br>
 <br>
 <br>
-
-
-## 📈 Github Stats
-
-[![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=antarescor&text_bold=true&hide=html,asp.net&layout=compact&card_width=800&theme=transparent&title_color=1BB8F7&text_color=1BB8F7&icon_color=ff00ff&border_color=1BB8F7&border_radius=10&show_icons=true&icon_color=ff00ff&langs_count=10)](ttps://github.com/antarescor/github-readme-stats)
-
-
-[![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api?username=antarescor&card_width=800&include_all_commits=true&count_private=true&hide=prs&show_icons=true&theme=transparent&title_color=1BB8F7&text_color=1EF714&icon_color=ff00ff&rank_icon=github&border_color=1BB8F7&border_radius=10)](https://github.com/antarescor/github-readme-stats)
-
-<!-- [![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=antarescor&hide=html,asp.net&card_width=600&theme=transparent&title_color=1BB8F7&text_color=1BB8F7&icon_color=ff00ff&border_color=1BB8F7&border_radius=10&show_icons=true&icon_color=ff00ff&langs_count=10)](ttps://github.com/antarescor/github-readme-stats) -->
-
-<!-- [![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api?username=antarescor&card_width=800&include_all_commits=true&count_private=true&hide=prs&show_icons=true&theme=transparent&title_color=1BB8F7&text_color=1EF714&icon_color=ff00ff&border_color=1BB8F7&border_radius=10)](https://github.com/antarescor/github-readme-stats)
- -->
 
 ##
 <div align="center">
