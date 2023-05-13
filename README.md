@@ -44,20 +44,17 @@ Software Enginner at universidad del Valle link
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=inconsolata&weight=900&size=24&duration=2300&pause=10&color=1BB8F7&vCenter=true&multiline=true&width=435&height=80&lines=%22The+perfect+measure;of+imperfect+things%22)](https://git.io/typing-svg)
 
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="./assets/kaggle.svg" height='18px'/></a>
+<a href='https://www.kaggle.com/antarescor/'><img alt="kaggle" src="./assets/kaggle.svg" height='18px'/></a>
 
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
 
-<a href="https://github.com/MartinHeinz/antarescor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antarescor&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10" />
-</a>
 
-[![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api?username=antarescor&hide=prs&show_icons=true&theme=dark)](https://github.com/antarescor/github-readme-stats)
+[![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=antarescor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10)](ttps://github.com/antarescor/github-readme-stats)
+
+<!-- 
+[![Antarescor's GitHub stats]
+(https://github-readme-stats.vercel.app/api?username=antarescor&hide=prs&show_icons=true&theme=dark)](https://github.com/antarescor/github-readme-stats)
 
 [![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api?username=antarescor&hide=prs&show_icons=true&theme=radical)](https://github.com/antarescor/github-readme-stats)
 
@@ -75,15 +72,15 @@ Software Enginner at universidad del Valle link
 
 [![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api?username=antarescor&hide=prs&show_icons=true&theme=highcontrast)](https://github.com/antarescor/github-readme-stats)
 
-[![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api?username=antarescor&hide=prs&show_icons=true&theme=dracula)](https://github.com/antarescor/github-readme-stats)
+[![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api?username=antarescor&hide=prs&show_icons=true&theme=dracula)](https://github.com/antarescor/github-readme-stats) -->
 
-[![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api?username=antarescor&hide=prs&show_icons=true&theme=transparent)](https://github.com/antarescor/github-readme-stats)
+[![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api?username=antarescor&hide=prs&show_icons=true&theme=transparent&text_color=00ff00&icon_color=ff00ff&border_color=00ff00)](https://github.com/antarescor/github-readme-stats)
 
-[![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api?username=antarescor&hide=prs&show_icons=true&bg_color=00000000)](https://github.com/antarescor/github-readme-stats)
+[![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api?username=antarescor&hide=prs&show_icons=true&theme=transparent&text_color=00ff00&icon_color=ff00ff&border_color=00ff00&hide_border=true)](https://github.com/antarescor/github-readme-stats)
 
+[![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api?username=antarescor&hide=prs&show_icons=true&bg_color=00000000&text_color=00ff00)](https://github.com/antarescor/github-readme-stats)
 
+<!-- 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=antarescor&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/antarescor/github-readme-stats#gh-dark-mode-only)
-
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=antarescor&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/antarescor/github-readme-stats#gh-light-mode-only)
-
+ -->
 
