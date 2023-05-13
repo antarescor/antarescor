@@ -1,9 +1,11 @@
 
 <h1 align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <span><img src="./assets/wave.gif" width="30px" height="30px" /></span>
+  <span><img align="center" alt="JavaScript" height ="48px"  src="./assets/wave.gif"> </a></span>
+
+  
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=inconsolata&height=45&weight=900&size=40&duration=2000&pause=1000&color=1BB8F7&center=true&vCenter=true&hCenter=true&multiline=false&width=800&height=80&lines=Hi,+I'm+Manuel+A.+Doncel;a.k.a...;+~Antarescor~+" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=inconsolata&height=45&weight=900&size=40&duration=800&pause=100000&color=1BB8F7&center=true&vCenter=true&hCenter=true&multiline=false&width=800&height=80&lines=Hi,+I'm+Manuel+A.+Doncel;a.k.a...;+~Antarescor~+" /></a>
 </h1>
 
 
