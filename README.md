@@ -16,6 +16,12 @@
 + 🦅 Always Ravenclaw !!!
 
 
+<!-- links -->
+[univalle]:https://www.univalle.edu.co/
+[portfolio]: https://antarescor.github.io/
+<!-- end links -->
+
+
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - # -->
   <a href="#">
@@ -38,13 +44,6 @@
 </p>
 
 
-
-<!-- links -->
-[twitter]: https://twitter.com/Antarescor/
-[univalle]:https://www.univalle.edu.co/
-[portfolio]: https://antarescor.github.io/
-<!-- end links -->
-
 <br>
 
 ## 🚀 Coding
@@ -62,7 +61,6 @@
 <img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/csharp.svg"> </a>
 <img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/materialize.svg"> </a>
 
-
 <br>
 <br>
 <br>
@@ -75,17 +73,12 @@
 <img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/figma.svg"> </a>
 <img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/graphql.svg"> </a>
 
-
-
-
-<br>
 <br>
 <br>
 <br>
 
 
 ## 📈 Github Stats
-
 
 [![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=antarescor&text_bold=true&hide=html,asp.net&layout=compact&card_width=800&theme=transparent&title_color=1BB8F7&text_color=1BB8F7&icon_color=ff00ff&border_color=1BB8F7&border_radius=10&show_icons=true&icon_color=ff00ff&langs_count=10)](ttps://github.com/antarescor/github-readme-stats)
 
