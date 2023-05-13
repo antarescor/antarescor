@@ -43,20 +43,6 @@
 <!-- [![Antarescor's GitHub stats](https://github-readme-stats.vercel.app/api?username=antarescor&card_width=800&include_all_commits=true&count_private=true&hide=prs&show_icons=true&theme=transparent&title_color=1BB8F7&text_color=1EF714&icon_color=ff00ff&border_color=1BB8F7&border_radius=10)](https://github.com/antarescor/github-readme-stats)
  -->
 
-## 📫 How to reach me
-  
-<p align="center">
-  <a href="https://antarescor.github.io/"  target="_blank"><img width="44px" alt="MySite" title="MySite" src="./assets/contact/site2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/Antarescor"  target="_blank"><img width="48px" alt="Twitter" title="Twitter" src="./assets/contact/twitter2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:antarescor@hotmail.com"  target="_blank"><img width="48px"  alt="mal" title="mail" src="./assets/contact/mail2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/@_Antarescor"  target="_blank"><img width="48px" alt="youtube" title="youtube"src="./assets/contact/youtube2.png"/></a>
-</p>
-
-<br>
-
 ## 🚀 Coding
 
 <img align="left" alt="JavaScript" height ="48px"  src="./assets/icons/node.svg"> </a>
@@ -85,6 +71,20 @@
 
 <br>
 <br>
+<br>
+
+## 📫 How to reach me
+  
+<p align="center">
+  <a href="https://antarescor.github.io/"  target="_blank"><img width="44px" alt="MySite" title="MySite" src="./assets/contact/site2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/Antarescor"  target="_blank"><img width="48px" alt="Twitter" title="Twitter" src="./assets/contact/twitter2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:antarescor@hotmail.com"  target="_blank"><img width="48px"  alt="mal" title="mail" src="./assets/contact/mail2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.youtube.com/@_Antarescor"  target="_blank"><img width="48px" alt="youtube" title="youtube"src="./assets/contact/youtube2.png"/></a>
+</p>
+
 <br>
 
 ##
